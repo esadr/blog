@@ -1,2 +1,2 @@
 # blog
-Code for my blog tech.ehsan.faridpour.com
+Code for my [blog](https://tech.ehsan.faridpour.com)
